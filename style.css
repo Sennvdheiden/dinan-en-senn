@@ -49,7 +49,7 @@ a:hover{
  
 section{
  width: 100%;
- height: 1000px;
+ height: 100%;
  background: linear-gradient(to right,#39ca74,lightblue)
 }
  
@@ -74,16 +74,16 @@ div{
  font-family: 'Open Sans', sans-serif;
 }
 
-img{
-  margin-left: 70%;
-  width: 600px;
-  position: relative;
-  top: -45px;
-  left: -200px;
-
-}
-
 p{
   position: relative;
-  left: 50px;
+ text-align: center;
+}
+
+.titel{
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 70px;
+  position: relative;
+  top: -50px;
+  color: #39ca74;
+  -webkit-text-stroke: 2px black;
 }
