@@ -1,0 +1,15 @@
+.zin{
+  position: relative;
+  text-align: center;
+}
+
+.titel{
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 70px;
+  position: relative;
+  text-align: center;
+  top: -50px;
+  color: #39ca74;
+  -webkit-text-stroke: 2px black;
+}
+

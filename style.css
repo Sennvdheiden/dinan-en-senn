@@ -48,8 +48,8 @@ a:hover{
 }
  
 section{
- width: 100%;
  height: auto;
+ background-size: cover;
  background: linear-gradient(to right,#39ca74,lightblue)
 }
  
@@ -74,16 +74,3 @@ div{
  font-family: 'Open Sans', sans-serif;
 }
 
-p{
-  position: relative;
-  text-align: center;
-}
-
-.titel{
-  font-family: 'Alfa Slab One', cursive;
-  font-size: 70px;
-  position: relative;
-  top: -50px;
-  color: #39ca74;
-  -webkit-text-stroke: 2px black;
-}
