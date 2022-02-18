@@ -1,0 +1,43 @@
+.form{
+  border: 3px solid black;
+  width: 45%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+h2{
+  margin: 0;
+  font-size: 40px;
+}
+
+.boven{
+  text-align: center;
+  border: 5px solid black;
+  width: 60%;
+  margin: auto;
+  margin-bottom: 5px;
+  margin-top: 20px;
+}
+  
+em{
+  font-style: normal;
+}
+
+input:hover{
+  transition: 0,2s;
+  border-color: lightblue;
+}
+
+.input{
+  text-align: center;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 2,5%;
+}
+
+.input2{
+  text-align: center;
+  width: 20%;
+  margin-left: 40%;
+  margin-bottom: 20px;
+}
