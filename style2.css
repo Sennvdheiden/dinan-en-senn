@@ -67,6 +67,16 @@ div{
  font-family: 'Open Sans', sans-serif;
 }
 
-.olabout{
-  type: 1;
+#image{
+  margin-left: 500px;
+  position: relative;
+  top: -260px;
+}
+
+#image2{
+  margin-left: 900px;
+  position: relative;
+  top: -540px;
+  width: 20%;
+  height: 20%;
 }
