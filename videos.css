@@ -1,0 +1,14 @@
+.div1, iframe{
+  width: 560px;
+  height: 315px;
+  margin: 0 auto;
+}
+
+.div2{
+  text-align: center;
+  height: 187px;
+}
+
+p{
+  margin-bottom: 0;
+}
