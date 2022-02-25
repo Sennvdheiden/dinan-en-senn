@@ -63,7 +63,6 @@ footer{
  
 footer h1{
  font-size: 20px;
- margin-left: 36%;
 }
  
 footer span{
@@ -74,3 +73,16 @@ div{
  font-family: 'Open Sans', sans-serif;
 }
 
+@media (max-width: 820px){
+  header{
+    height: 120px;
+  }
+  ul{
+    display: inline;
+    float: none;
+  }
+  h1{
+    display: none;
+    padding: 10px 30px
+  }
+}
